@@ -2,10 +2,9 @@
 
 This project demonstrates a basic implementation of face detection and hand tracking using OpenCV and Mediapipe in Python. A pre-trained Haar Cascade classifier is used to detect faces in real-time from a webcam feed. Detected faces are highlighted with rectangles in the video stream.
 The MediaPipe library is used for real-time hand tracking, allowing the detection and annotation of hand landmarks in a webcam feed.
-<!-- 
-[![Watch the video](https://github.com/Infinityy1001/Facial-Recognition/tree/main/assets/demo.jpg)](https://github.com/Infinityy1001/Facial-Recognition/tree/main/assets/demo.mp4) -->
 
 ![Watch the demo](assets/demo.gif)
+
 
 
 ## Features
