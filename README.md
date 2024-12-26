@@ -7,6 +7,8 @@ The MediaPipe library is used for real-time hand tracking, allowing the detectio
 
 
 
+
+
 ## Features
 - Real-time face detection and hand detection using a webcam.
 - Highlights detected faces with rectangles and detected hands with annotated landmarks and connections.
